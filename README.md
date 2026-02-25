@@ -199,9 +199,9 @@ End-to-end marketing attribution setup with Meta Conversions API, Google Tag Man
 
 Currently available for select projects — AI automation, Hyros implementation, n8n workflows, and full-stack development.
 
-[![Email](https://img.shields.io/badge/Email-carlos@vixi.dev-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos@vixi.dev)
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://carlosaragon.online)
-[![Schedule Call](https://img.shields.io/badge/Schedule_A_Call-00C4CC?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/carlos-vixi)
+[![Email](https://img.shields.io/badge/Email-carlos%40vixi.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos@vixi.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-carlosaragon.online-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://carlosaragon.online)
+[![Schedule Call](https://img.shields.io/badge/Schedule-Book_A_Call-00C4CC?style=for-the-badge&logo=calendar&logoColor=white)](https://calendly.com/carlos-vixi)
 
 ---
 
